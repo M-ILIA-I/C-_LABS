@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 0,
+    "drives": [
+      {
+        "Id": 0,
+        "AmountOfMemory": 300
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "drives": [
+      {
+        "Id": 0,
+        "AmountOfMemory": 300
+      },
+      {
+        "Id": 1,
+        "AmountOfMemory": 741
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "drives": [
+      {
+        "Id": 0,
+        "AmountOfMemory": 300
+      },
+      {
+        "Id": 1,
+        "AmountOfMemory": 741
+      },
+      {
+        "Id": 2,
+        "AmountOfMemory": 1814
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "drives": [
+      {
+        "Id": 0,
+        "AmountOfMemory": 300
+      },
+      {
+        "Id": 1,
+        "AmountOfMemory": 741
+      },
+      {
+        "Id": 2,
+        "AmountOfMemory": 1814
+      },
+      {
+        "Id": 3,
+        "AmountOfMemory": 4441
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "drives": [
+      {
+        "Id": 0,
+        "AmountOfMemory": 300
+      },
+      {
+        "Id": 1,
+        "AmountOfMemory": 741
+      },
+      {
+        "Id": 2,
+        "AmountOfMemory": 1814
+      },
+      {
+        "Id": 3,
+        "AmountOfMemory": 4441
+      },
+      {
+        "Id": 4,
+        "AmountOfMemory": 10953
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "drives": [
+      {
+        "Id": 0,
+        "AmountOfMemory": 300
+      },
+      {
+        "Id": 1,
+        "AmountOfMemory": 741
+      },
+      {
+        "Id": 2,
+        "AmountOfMemory": 1814
+      },
+      {
+        "Id": 3,
+        "AmountOfMemory": 4441
+      },
+      {
+        "Id": 4,
+        "AmountOfMemory": 10953
+      },
+      {
+        "Id": 5,
+        "AmountOfMemory": 27011
+      }
+    ]
+  }
+]

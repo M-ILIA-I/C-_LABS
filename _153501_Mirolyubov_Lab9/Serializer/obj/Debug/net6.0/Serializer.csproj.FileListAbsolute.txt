@@ -1,0 +1,14 @@
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\bin\Debug\net6.0\Serializer.deps.json
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\bin\Debug\net6.0\Serializer.dll
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\bin\Debug\net6.0\Serializer.pdb
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\bin\Debug\net6.0\LAB9.Domain.pdb
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.csproj.AssemblyReference.cache
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.csproj.CopyComplete
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.dll
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\refint\Serializer.dll
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\Serializer.pdb
+E:\C# Labs\_153501_ Mirolyubov_Lab9\Serializer\obj\Debug\net6.0\ref\Serializer.dll

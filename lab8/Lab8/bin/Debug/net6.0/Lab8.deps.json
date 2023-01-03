@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab8/1.0.0": {
+        "dependencies": {
+          "StreamService": "1.0.0"
+        },
+        "runtime": {
+          "Lab8.dll": {}
+        }
+      },
+      "StreamService/1.0.0": {
+        "runtime": {
+          "StreamService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

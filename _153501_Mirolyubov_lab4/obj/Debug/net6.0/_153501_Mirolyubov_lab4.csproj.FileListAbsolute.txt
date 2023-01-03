@@ -1,0 +1,15 @@
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.csproj.AssemblyReference.cache
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.AssemblyInfoInputs.cache
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.AssemblyInfo.cs
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.csproj.CoreCompileInputs.cache
+E:\C# Labs\_153501_Mirolyubov_lab4\bin\Debug\net6.0\_153501_Mirolyubov_lab4.exe
+E:\C# Labs\_153501_Mirolyubov_lab4\bin\Debug\net6.0\_153501_Mirolyubov_lab4.deps.json
+E:\C# Labs\_153501_Mirolyubov_lab4\bin\Debug\net6.0\_153501_Mirolyubov_lab4.runtimeconfig.json
+E:\C# Labs\_153501_Mirolyubov_lab4\bin\Debug\net6.0\_153501_Mirolyubov_lab4.dll
+E:\C# Labs\_153501_Mirolyubov_lab4\bin\Debug\net6.0\_153501_Mirolyubov_lab4.pdb
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.dll
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\refint\_153501_Mirolyubov_lab4.dll
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.pdb
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\_153501_Mirolyubov_lab4.genruntimeconfig.cache
+E:\C# Labs\_153501_Mirolyubov_lab4\obj\Debug\net6.0\ref\_153501_Mirolyubov_lab4.dll

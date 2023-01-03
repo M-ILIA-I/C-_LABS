@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirolyubov_lab6", "Mirolyubov_lab6.csproj", "{31E824A1-F3E4-4DBB-AF09-B9F249DAE800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServiceLibrary", "..\FileServiceLibrary\FileServiceLibrary.csproj", "{DCE06BEA-5741-464C-BA9D-9294142FDD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E824A1-F3E4-4DBB-AF09-B9F249DAE800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E824A1-F3E4-4DBB-AF09-B9F249DAE800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E824A1-F3E4-4DBB-AF09-B9F249DAE800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E824A1-F3E4-4DBB-AF09-B9F249DAE800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE06BEA-5741-464C-BA9D-9294142FDD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE06BEA-5741-464C-BA9D-9294142FDD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE06BEA-5741-464C-BA9D-9294142FDD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE06BEA-5741-464C-BA9D-9294142FDD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C07063-C8FD-4FBF-9BA7-1EE733B21628}
+	EndGlobalSection
+EndGlobal

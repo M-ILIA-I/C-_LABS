@@ -1,0 +1,12 @@
+E:\C# Labs\lab7\integral\bin\Debug\net6.0\lib.deps.json
+E:\C# Labs\lab7\integral\bin\Debug\net6.0\lib.dll
+E:\C# Labs\lab7\integral\bin\Debug\net6.0\lib.pdb
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.csproj.AssemblyReference.cache
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.AssemblyInfoInputs.cache
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.AssemblyInfo.cs
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.csproj.CoreCompileInputs.cache
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.dll
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\refint\lib.dll
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\lib.pdb
+E:\C# Labs\lab7\integral\obj\Debug\net6.0\ref\lib.dll

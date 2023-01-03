@@ -1,0 +1,12 @@
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.csproj.AssemblyReference.cache
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.AssemblyInfoInputs.cache
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.AssemblyInfo.cs
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.csproj.CoreCompileInputs.cache
+E:\C# Labs\lab8\StreamService\bin\Debug\net6.0\StreamService.deps.json
+E:\C# Labs\lab8\StreamService\bin\Debug\net6.0\StreamService.dll
+E:\C# Labs\lab8\StreamService\bin\Debug\net6.0\StreamService.pdb
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.dll
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\refint\StreamService.dll
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\StreamService.pdb
+E:\C# Labs\lab8\StreamService\obj\Debug\net6.0\ref\StreamService.dll

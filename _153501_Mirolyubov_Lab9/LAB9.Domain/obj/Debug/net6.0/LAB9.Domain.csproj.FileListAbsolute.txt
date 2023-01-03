@@ -1,0 +1,12 @@
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\bin\Debug\net6.0\LAB9.Domain.deps.json
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\bin\Debug\net6.0\LAB9.Domain.dll
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\bin\Debug\net6.0\LAB9.Domain.pdb
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.csproj.AssemblyReference.cache
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.AssemblyInfoInputs.cache
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.AssemblyInfo.cs
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.csproj.CoreCompileInputs.cache
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.dll
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\refint\LAB9.Domain.dll
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\LAB9.Domain.pdb
+E:\C# Labs\_153501_ Mirolyubov_Lab9\LAB9.Domain\obj\Debug\net6.0\ref\LAB9.Domain.dll

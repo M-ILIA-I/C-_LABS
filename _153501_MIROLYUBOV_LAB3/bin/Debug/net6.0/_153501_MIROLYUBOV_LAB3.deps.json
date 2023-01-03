@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_153501_MIROLYUBOV_LAB3/1.0.0": {
+        "runtime": {
+          "_153501_MIROLYUBOV_LAB3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_153501_MIROLYUBOV_LAB3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
